@@ -1,5 +1,4 @@
 node_modules
 documentacao.txt
 
-# Variáveis de ambiente — nunca suba isso para o repositório
 .env
